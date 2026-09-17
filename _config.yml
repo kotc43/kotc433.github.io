@@ -21,7 +21,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: "https://kotc43.github.io/" # the base hostname & protocol for your site
-baseurl: "/al-minimal" # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: "/kotc43" # the subpath of your site, e.g. /blog/. Leave blank for root
 
 # -----------------------------------------------------------------------------
 # About
